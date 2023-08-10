@@ -1,6 +1,7 @@
 {
+  "homepage": "https://mriduldevelops.github.io/Admin-Dashboard",
   "name": "vite-project",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
